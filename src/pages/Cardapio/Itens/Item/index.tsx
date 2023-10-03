@@ -2,7 +2,6 @@ import React from 'react';
 import styles from './Item.module.scss';
 import classNames from 'classnames';
 
-
 interface Props{
     title: string;
     description: string;
